@@ -17,7 +17,7 @@ function t(t,e,i,s){var o,n=arguments.length,r=n<3?e:null===s?s=Object.getOwnPro
         display: none;
       }
       #root {
-        margin: -4px;
+        margin: 0px;
         padding: 4px;
         display: grid;
         grid-template-rows: auto 0px;
